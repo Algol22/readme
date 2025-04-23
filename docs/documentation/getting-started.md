@@ -1,5 +1,5 @@
 ---
-title: Getting Started with source
+title: Update v.1
 excerpt: >-
   This page will help you get started with source. You'll be up and running in a
   jiffy!
